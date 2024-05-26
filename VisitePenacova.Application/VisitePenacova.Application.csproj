@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\VisitePenacova.Domain\VisitePenacova.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
